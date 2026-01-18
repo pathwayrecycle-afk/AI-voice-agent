@@ -1,0 +1,10 @@
+
+/* Base styles for Sophie Voice Agent */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #e2e8f0 transparent;
+}

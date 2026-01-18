@@ -1,0 +1,7 @@
+{
+  "name": "Test Water Information Appointment Setter - Sophie",
+  "description": "Appointment Setter for Test Water Information a premium in-home water test company .",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
